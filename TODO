@@ -1,0 +1,4 @@
+ glLinkProgram( shaderProgram );
+
+    glDeleteShader(vertexShader);
+    glDeleteShader(fragmentShader);
